@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\heydar\\desktop\\static, interface, extension\\static, interface, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\heydar\\desktop\\static, interface, extension\\static, interface, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\heydar\\desktop\\static, interface, extension\\static, interface, extension\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|c:\\users\\heydar\\desktop\\static, interface, extension\\static, interface, extension\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3887A8-0BA9-4D0F-BA86-D9AE484AF413}|Static, Interface, Extension\\Static, Interface, Extension.csproj|solutionrelative:static, interface, extension\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Program.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Program.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Program.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:11:05.335Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Group.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Group.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Group.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:54:37.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Student.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Student.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Student.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:30:29.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Extension.cs",
+              "RelativeDocumentMoniker": "Static, Interface, Extension\\Extension.cs",
+              "ToolTip": "C:\\Users\\Heydar\\Desktop\\Static, Interface, Extension\\Static, Interface, Extension\\Extension.cs",
+              "RelativeToolTip": "Static, Interface, Extension\\Extension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:12:31.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
